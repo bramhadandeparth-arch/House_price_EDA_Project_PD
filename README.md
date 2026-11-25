@@ -39,52 +39,7 @@ house-price-eda/
 └── requirements.txt
 ```
 
-Update the structure above to match the actual files in your project.
-
-## Getting Started
-
-### 1. Clone or download the project
-
-```bash
-git clone <your-repository-url>
-cd house-price-eda
-```
-
-If you downloaded the project as a ZIP file, extract it and open a terminal in the project folder.
-
-### 2. Create and activate a virtual environment (recommended)
-
-**Windows:**
-
-```bash
-python -m venv .venv
-.venv\Scripts\activate
-```
-
-**macOS / Linux:**
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run the analysis
-
-Open the Jupyter Notebook containing the EDA:
-
-```bash
-jupyter notebook
-```
-
-Run the notebook cells in order. Make sure the dataset is available at the path used in the notebook, and update that path if necessary.
-
-## Dataset and Columns
+## Dataset and Columns1
 
 The dashboard indicates that the analysis uses fields corresponding to:
 
