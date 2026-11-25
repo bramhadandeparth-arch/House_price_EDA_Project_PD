@@ -60,6 +60,10 @@ The original dataset filename, source, units, preprocessing steps and exact colu
 - Seaborn
 - Jupyter Notebook
 
+## Project Visualizations
+
+![House Price EDA Dashboard](eda_dashboard.png)
+
 ## Notes
 
 - The dashboard image is a visual summary; the underlying dataset and notebook are required to reproduce the charts.
