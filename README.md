@@ -66,6 +66,3 @@ The original dataset filename, source, units, preprocessing steps and exact colu
 - The chart values and observations may change if the dataset or preprocessing changes.
 - This project is for exploratory data analysis and does not, by itself, provide a trained house-price prediction model.
 
-## Author
-
-Add your name and project details here.
